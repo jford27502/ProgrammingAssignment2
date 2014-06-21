@@ -1,5 +1,3 @@
-##       1         2         3         4         5         6         7         8
-## 45678901234567890123456789012345678901234567890123456789012345678901234567890
 ##
 ##	The following two functions, makeCacheMatrix() and cacheSolve(),
 ## 	implement a caching mechanism for fast retrieval of the inverse
